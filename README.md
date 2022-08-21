@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoSilva19&count_private=true&include_all_comits=true&show_icons=true&theme=dracula)](https://github.com/AdrianoSilva19/AdrianoSilva19)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilva19&langs_count=16&theme=dracula)](https://github.com/AdrianoSilva19/AdrianoSilva19)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoSilva19&count_private=true&include_all_comits=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilva19&langs_count=16&theme=dracula" />
+</a>
+
 
 <!--
 
