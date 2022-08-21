@@ -6,7 +6,7 @@
 </a>
 
 ##
-![snake gif](https://github.com/AdrianoSilva19/AdrianoSilva19/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/AdrianoSilva19/AdrianoSilva19/blob/output/github-contribution-grid-snake.svg)
 
 
 
