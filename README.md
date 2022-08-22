@@ -1,9 +1,20 @@
 ### Hi there 👋
+#### Iam a MSc student of Bioinformatics, currently working on Python developing and Bioinformatics algorithms
+
 ##
-<a href="https://github.com/AdrianoSilva19/AdrianoSilva19">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianoSilva19&count_private=true&include_all_comits=true&show_icons=true&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilva19&langs_count=3&theme=dracula" />
-</a>
+### Some of my GitHub stats:
+
+<div>
+  <a href="https://github.com/AdrianoSilva19/AdrianoSilva19">
+    <img heigth="180" align="left" src="https://github-readme-stats.vercel.app/api?username=AdrianoSilva19&count_private=true&include_all_comits=true&show_icons=true&theme=dracula" />
+    <img heigth="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoSilva19&langs_count=3&theme=dracula" />
+  </a>
+</div>
+
+<div style="display:inline_block"><br>
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</div>
 
 ##
 
@@ -16,6 +27,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 ##
+
+### Contribution graph
 
 ![snake svg](https://github.com/AdrianoSilva19/AdrianoSilva19/blob/output/github-contribution-grid-snake.svg)
 
