@@ -14,6 +14,7 @@
 <div style="display:inline_block"><br>
   <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
 </div>
 
 ##
