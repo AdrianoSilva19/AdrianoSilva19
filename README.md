@@ -11,10 +11,10 @@
   </a>
 </div>
 
-<div style="display:inline_block"><br>
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+<div style="display:inline_block">
+  <img align="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img align="center" heigth="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
 </div>
 
 ##
