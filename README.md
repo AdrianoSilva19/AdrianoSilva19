@@ -19,19 +19,8 @@
 
 ##
 
-
 <!--START_SECTION:waka-->
-
-```text
-From: 20 August 2022 - To: 22 August 2022
-
-Total Time: 3 hrs 26 mins
-
-Python   3 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
 <!--END_SECTION:waka-->
-
 
 ##
 
