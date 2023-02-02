@@ -20,7 +20,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -51,9 +51,7 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ███████████████████████░░   93.63% 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.34% 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+No Activity Tracked This Week
 
 ```
 
@@ -69,7 +67,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2023 01:49:05 UTC
+ Last Updated on 02/02/2023 08:27:58 UTC
 <!--END_SECTION:waka-->
 
 ##
