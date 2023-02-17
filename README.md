@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-718%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-719%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -71,7 +71,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 08:28:40 UTC
+ Last Updated on 17/02/2023 01:50:47 UTC
 <!--END_SECTION:waka-->
 
 ##
