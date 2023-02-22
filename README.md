@@ -20,7 +20,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-719%20Thousand%20lines%20of%20code-blue)
 
@@ -63,15 +63,15 @@ Git Config               17 mins             ░░░░░░░░░░░�
 
 ```text
 Python                   6 repos             █████████████░░░░░░░░░░░░   54.55 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
 Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18 % 
 TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 08:26:32 UTC
+ Last Updated on 22/02/2023 01:45:47 UTC
 <!--END_SECTION:waka-->
 
 ##
