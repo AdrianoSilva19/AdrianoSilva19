@@ -49,8 +49,7 @@ Sunday                   46 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 mins              █████████████░░░░░░░░░░░░   50.62 % 
-XML                      8 mins              ████████████░░░░░░░░░░░░░   49.38 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -66,7 +65,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2023 01:28:52 UTC
+ Last Updated on 29/04/2023 08:21:03 UTC
 <!--END_SECTION:waka-->
 
 ##
