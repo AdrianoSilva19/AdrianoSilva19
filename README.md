@@ -20,7 +20,7 @@
 ##
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -49,9 +49,9 @@ Sunday                   47 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       █████████████████████████   99.36 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   3 hrs 10 mins       █████████████████████████   99.42 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,7 +67,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2023 01:22:57 UTC
+ Last Updated on 05/05/2023 08:22:07 UTC
 <!--END_SECTION:waka-->
 
 ##
