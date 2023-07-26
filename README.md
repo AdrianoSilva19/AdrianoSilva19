@@ -72,13 +72,6 @@ TeX                      1 repo              ██░░░░░░░░░�
  Last Updated on 26/07/2023 08:21:58 UTC
 <!--END_SECTION:waka-->
 
-##
-
-### Contribution graph
-
-![snake svg](https://github.com/AdrianoSilva19/AdrianoSilva19/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 
