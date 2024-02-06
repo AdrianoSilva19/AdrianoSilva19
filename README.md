@@ -1,8 +1,12 @@
-### Hi there 👋
-#### Iam a MSc student of Bioinformatics, currently working on Python developing and Bioinformatics algorithms
+### Welcome to my personal GitHUb
+#### I started this adventure three years ago, and since then I traveled throughout the world of coding/data with joy where I tried to develop myself in technical and personal depths. 
+#### I'm currently addressing a new wonderful challenge in my life as I ingressed in Critical TechWorks as a Data Mastermind. This journey never stops to amaze me and still to this day keeps triggering in me the eagerness to seek new and hard challenges.
+#### This account will be for personal projects only, feel free to explore :upside_down_face:	
 
-##
-### Some of my GitHub stats:
+- 🔭 I’m currently working on Terraform 
+- 🌱 I’m currently learning Terraform & AWS
+
+### This are my personal GitHub stats:
 
 <div>
   <a href="https://github.com/AdrianoSilva19/AdrianoSilva19">
